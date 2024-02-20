@@ -9,6 +9,7 @@ In dieser Lernperiode will ich ein besser geeignetes Projekt machen das ich am E
 Neu: Ich möchte einen Discord Bot programmieren
 Ein Discord Bot programmieren.
 20.2.2024
+
 ✍️Heute Habe ich mir eine von den von Ihnen vorgeschlagenen Projektideen ausgesucht. Ich habe mir vorgenommen ein Bot für Discord zu programmieren. Der Bot soll mit einer KI verbunden sein und so als chatbot dienen um unseren Server hilfreich zu erweitern.
 
 27.2.2024
