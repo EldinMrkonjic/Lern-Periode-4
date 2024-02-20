@@ -4,10 +4,10 @@ Eldin Mrkonjic
 20.2 bis 2.4.2024
 
 Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Neu: Was möchten Sie Neues lernen?
-Was wäre ein geeignetes Projekt für diese LP4?
+Im Moment sind alle Note gut und es kann ruhig so weitergehen.
+In dieser Lernperiode will ich ein besser geeignetes Projekt machen das ich am Ende auch ein gutes ergebnis habe.
+Neu: Ich möchte einen Discord Bot programmieren
+Ein Discord Bot programmieren.
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -25,3 +25,4 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+ 
