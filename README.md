@@ -9,16 +9,17 @@ In dieser Lernperiode will ich ein besser geeignetes Projekt machen das ich am E
 Neu: Ich möchte einen Discord Bot programmieren
 Ein Discord Bot programmieren.
 20.2.2024
-✍️ Heute habe ich... (50-100 Wörter)
+✍️Heute Habe ich mir eine von den von Ihnen vorgeschlagenen Projektideen ausgesucht. Ich habe mir vorgenommen ein Bot für Discord zu programmieren. Der Bot soll mit einer KI verbunden sein und so als chatbot dienen um unseren Server hilfreich zu erweitern.
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Grundlage des Codes Programmieren
+[ ] Turtorial anschauen
+[ ] Wissen wo ich den Bot einfügen werde
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
-...				
+...				!Werden noch ergänzt!
 4				
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
