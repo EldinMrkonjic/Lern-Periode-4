@@ -18,13 +18,13 @@ Ein Discord Bot programmieren.
 - [x] Aufgabe 4 Modul 164
 -Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              | MS SQL Server gestartet  |                |                |          |
-| 2              |                      |                |                |          |
-| 3              |                      |                |                |          |
+| 1              | MS SQL Server gestartet  | Befehl eingeben             | Gesuchte Zeilen gefunden               |  Ja        |
+| 2              | Word Gestartet                 |  Bilder und code eingefügt + Kommentar              |    Dokumentation            |     Ja     |
+| 3              | Ms SQL Server gestartet                 |  Code zum Constraint einfügen eingetippt             | Neuer Constraint vorhanden               |     Ja     |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich erfolgreich an meinem Projekt für das Modul 164 gearbeitet, ich bin sehr gut vorangekommen und es hat sich auf jedenfall gelohnt die Lernatelier Stunden dafür zu verwenden, zwar hatte ich auch einige Probleme welche ich meistens mit der Hilfe von Herr Gerwig und Herr Agget lösen konnte. Einige jedoch nicht welche ich morgen meinen Lehrer Fragen muss.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
