@@ -13,14 +13,14 @@ Ein Discord Bot programmieren.
 ✍️Heute Habe ich mir eine von den von Ihnen vorgeschlagenen Projektideen ausgesucht. Ich habe mir vorgenommen ein Bot für Discord zu programmieren. Der Bot soll mit einer KI verbunden sein und so als chatbot dienen um unseren Server hilfreich zu erweitern.
 
 27.2.2024
-- [ ] Aufgabe 3 Modul 164
-- [ ] Dokumentation für Aufgabe 3
-- [ ] Wissen wo ich den Bot einfügen werde
+- [x] Aufgabe 3 Modul 164
+- [x] Dokumentation für Aufgabe 3
+- [x] Aufgabe 4 Modul 164
 -Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
+| 1              | MS SQL Server gestartet  |                |                |          |
 | 2              |                      |                |                |          |
 | 3              |                      |                |                |          |
 
