@@ -12,7 +12,7 @@ Ein Discord Bot programmieren.
 
 ✍️Heute Habe ich mir eine von den von Ihnen vorgeschlagenen Projektideen ausgesucht. Ich habe mir vorgenommen ein Bot für Discord zu programmieren. Der Bot soll mit einer KI verbunden sein und so als chatbot dienen um unseren Server hilfreich zu erweitern.
 
-27.2.2024
+## Arbeitspakete 27.2.2024
 - [x] Aufgabe 3 Modul 164
 - [x] Dokumentation für Aufgabe 3
 - [x] Aufgabe 4 Modul 164
@@ -26,6 +26,20 @@ Ein Discord Bot programmieren.
 
 ✍️ Heute habe ich erfolgreich an meinem Projekt für das Modul 164 gearbeitet, ich bin sehr gut vorangekommen und es hat sich auf jedenfall gelohnt die Lernatelier Stunden dafür zu verwenden, zwar hatte ich auch einige Probleme welche ich meistens mit der Hilfe von Herr Gerwig und Herr Agget lösen konnte. Einige jedoch nicht welche ich morgen meinen Lehrer Fragen muss.
 
+## Arbeitspakete 05.03.2024
+
+- [ ] Verstehen wie ein Discord Bot funktioniert
+- [ ] Discord Bot API aufsetzen
+- [ ] Discord Bot de im Server ist
+- [ ] Discord Bot der Hallo in server schreiben kann 
+
+
+| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |          |
+| 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
+| 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
+| 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
