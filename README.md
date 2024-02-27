@@ -3,7 +3,7 @@ Eldin Mrkonjic
 
 20.2 bis 2.4.2024
 
-Grob-Planung
+## Grob-Planung
 Im Moment sind alle Note gut und es kann ruhig so weitergehen.
 In dieser Lernperiode will ich ein besser geeignetes Projekt machen das ich am Ende auch ein gutes ergebnis habe.
 Neu: Ich möchte einen Discord Bot programmieren
@@ -13,10 +13,10 @@ Ein Discord Bot programmieren.
 ✍️Heute Habe ich mir eine von den von Ihnen vorgeschlagenen Projektideen ausgesucht. Ich habe mir vorgenommen ein Bot für Discord zu programmieren. Der Bot soll mit einer KI verbunden sein und so als chatbot dienen um unseren Server hilfreich zu erweitern.
 
 27.2.2024
-[ ] Grundlage des Codes Programmieren
-[ ] Turtorial anschauen
-[ ] Wissen wo ich den Bot einfügen werde
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+- [ ] Grundlage des Codes Programmieren
+- [ ] Turtorial anschauen
+- [ ] Wissen wo ich den Bot einfügen werde
+-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				!Werden noch ergänzt!
 4				
