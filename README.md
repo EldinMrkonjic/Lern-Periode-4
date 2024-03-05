@@ -29,10 +29,10 @@ Reflexion
 
 ## Arbeitspakete 05.03.2024
 
-- [-] Oracle Vm Instalieren (m187)
-- [-] Windows ISO herunterladen
-- [-] Ubuntu Software Herunterladen
-- [-] Windows und Ubuntu jeweils in der VM aufsetzten und ausführen
+- [x] Oracle Vm Instalieren (m187)
+- [x] Windows ISO herunterladen
+- [x] Ubuntu Software Herunterladen
+- [x] Windows und Ubuntu jeweils in der VM aufsetzten und ausführen
 
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -61,6 +61,8 @@ Reflexion
 | 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
 | 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
 | 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
+
+
 Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+✍️Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
  
