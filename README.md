@@ -28,6 +28,22 @@ Ein Discord Bot programmieren.
 
 ## Arbeitspakete 05.03.2024
 
+- [-] Oracle Vm Instalieren (m187)
+- [-] Windows ISO herunterladen
+- [-] Ubuntu Software Herunterladen
+- [-] Windows und Ubuntu jeweils in der VM aufsetzten und ausführen
+
+
+| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              | Auftrag gelesen               |   Website geöffnet          |  VM installiert                             |        JA  | 
+| 2              | Auftrag gelesen               |   Azure Website geöffnet    |  Windows ISO Datei Heruntergeladen      |        Ja  |
+| 3              | Auftrag gelesen               |   Ubuntu Website geöffnet   |  Ubuntu ISO Datei heruntergeladen              |        Ja  |
+| 4              | Auftrag gelesen               |   Oracle Gestartet und VM aufgesetzt          | Software erfolgreich instaliert und VM Funktioniert  |  JA  |
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+## Arbeitspakete 12.03.2024
+
 - [ ] Verstehen wie ein Discord Bot funktioniert
 - [ ] Discord Bot API aufsetzen
 - [ ] Discord Bot de im Server ist
@@ -41,7 +57,6 @@ Ein Discord Bot programmieren.
 | 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
 | 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
  
