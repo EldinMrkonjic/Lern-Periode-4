@@ -40,7 +40,9 @@ Ein Discord Bot programmieren.
 | 2              | Auftrag gelesen               |   Azure Website geöffnet    |  Windows ISO Datei Heruntergeladen      |        Ja  |
 | 3              | Auftrag gelesen               |   Ubuntu Website geöffnet   |  Ubuntu ISO Datei heruntergeladen              |        Ja  |
 | 4              | Auftrag gelesen               |   Oracle Gestartet und VM aufgesetzt          | Software erfolgreich instaliert und VM Funktioniert  |  JA  |
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Reflexion
+Heute musste ich leider meine geplanten arbeitspakete durch Aufgaben vom Modul 187 nacharbeiten da wir bis nächsten Montag noch eine Dokumentation zu jedem Auftrag schreiben müssen. Ich werde aber nächste Woche meine eigentlich geplanten Arbeitspakete erledigen um ewndlich weiter mit meinem Projekt zu kommen.
+
 
 ## Arbeitspakete 12.03.2024
 
@@ -56,7 +58,6 @@ Ein Discord Bot programmieren.
 | 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
 | 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
 | 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
  
