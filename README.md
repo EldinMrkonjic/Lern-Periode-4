@@ -24,7 +24,8 @@ Ein Discord Bot programmieren.
 | 2              | Word Gestartet                 |  Bilder und code eingefügt + Kommentar              |    Dokumentation            |     Ja     |
 | 3              | Ms SQL Server gestartet                 |  Code zum Constraint einfügen eingetippt             | Neuer Constraint vorhanden               |     Ja     |
 
-✍️ Heute habe ich erfolgreich an meinem Projekt für das Modul 164 gearbeitet, ich bin sehr gut vorangekommen und es hat sich auf jedenfall gelohnt die Lernatelier Stunden dafür zu verwenden, zwar hatte ich auch einige Probleme welche ich meistens mit der Hilfe von Herr Gerwig und Herr Agget lösen konnte. Einige jedoch nicht welche ich morgen meinen Lehrer Fragen muss.
+Reflexion
+✍️Heute habe ich erfolgreich an meinem Projekt für das Modul 164 gearbeitet, ich bin sehr gut vorangekommen und es hat sich auf jedenfall gelohnt die Lernatelier Stunden dafür zu verwenden, zwar hatte ich auch einige Probleme welche ich meistens mit der Hilfe von Herr Gerwig und Herr Agget lösen konnte. Einige jedoch nicht welche ich morgen meinen Lehrer Fragen muss.
 
 ## Arbeitspakete 05.03.2024
 
@@ -40,8 +41,10 @@ Ein Discord Bot programmieren.
 | 2              | Auftrag gelesen               |   Azure Website geöffnet    |  Windows ISO Datei Heruntergeladen      |        Ja  |
 | 3              | Auftrag gelesen               |   Ubuntu Website geöffnet   |  Ubuntu ISO Datei heruntergeladen              |        Ja  |
 | 4              | Auftrag gelesen               |   Oracle Gestartet und VM aufgesetzt          | Software erfolgreich instaliert und VM Funktioniert  |  JA  |
+
+
 Reflexion
-Heute musste ich leider meine geplanten arbeitspakete durch Aufgaben vom Modul 187 nacharbeiten da wir bis nächsten Montag noch eine Dokumentation zu jedem Auftrag schreiben müssen. Ich werde aber nächste Woche meine eigentlich geplanten Arbeitspakete erledigen um ewndlich weiter mit meinem Projekt zu kommen.
+✍️Heute musste ich leider meine geplanten arbeitspakete durch Aufgaben vom Modul 187 nacharbeiten da wir bis nächsten Montag noch eine Dokumentation zu jedem Auftrag schreiben müssen. Ich werde aber nächste Woche meine eigentlich geplanten Arbeitspakete erledigen um ewndlich weiter mit meinem Projekt zu kommen.
 
 
 ## Arbeitspakete 12.03.2024
