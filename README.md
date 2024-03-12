@@ -64,5 +64,25 @@ Reflexion
 
 
 Reflexion
+Ich habe mich mega gefreut huete endlich wieder an meinenm Projekt weiter arbeiten zu können. Jedoch wurde diese Freude niedergeschlagen von Fieber und starken bauchschmerzen weshalb ich heute nachmittag auch zuhause geblieben bin.
+Ich hoffe stark das nächste Woche nichts dazwischen kommt, denn ich bin jetzt ein gutes Stück zurückgefallen. Jedoch gebe ich mir mühe das aufzuholen.
+
+
+## Arbeitspakete 19.03.2024
+
+- [ ] Verstehen wie ein Discord Bot funktioniert
+- [ ] Discord Bot API aufsetzen
+- [ ] Discord Bot de im Server ist
+- [ ] Discord Bot der Hallo in server schreiben kann 
+
+
+| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |          |
+| 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
+| 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
+| 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
+
+Reflexion
 ✍️Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
  
