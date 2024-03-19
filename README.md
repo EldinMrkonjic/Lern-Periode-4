@@ -35,7 +35,7 @@ Reflexion
 - [x] Windows und Ubuntu jeweils in der VM aufsetzten und ausführen
 
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              | Auftrag gelesen               |   Website geöffnet          |  VM installiert                             |        JA  | 
 | 2              | Auftrag gelesen               |   Azure Website geöffnet    |  Windows ISO Datei Heruntergeladen      |        Ja  |
@@ -55,7 +55,7 @@ Reflexion
 - [ ] Discord Bot der Hallo in server schreiben kann 
 
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |          |
 | 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
@@ -76,7 +76,7 @@ Ich hoffe stark das nächste Woche nichts dazwischen kommt, denn ich bin jetzt e
 - [ ] Discord Bot der Hallo in server schreiben kann 
 
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |          |
 | 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
