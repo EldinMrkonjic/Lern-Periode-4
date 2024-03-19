@@ -70,19 +70,36 @@ Ich hoffe stark das nächste Woche nichts dazwischen kommt, denn ich bin jetzt e
 
 ## Arbeitspakete 19.03.2024
 
-- [ ] Verstehen wie ein Discord Bot funktioniert
-- [ ] Discord Bot API aufsetzen
+- [x] Verstehen wie ein Discord Bot funktioniert
+- [x] Discord Bot API aufsetzen
 - [ ] Discord Bot de im Server ist
 - [ ] Discord Bot der Hallo in server schreiben kann 
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |          |
-| 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |          |
-| 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |          |
-| 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |          |
+| 1              |   Dokumentation gelesen                   |     -           |     Verstanden wie ein Discord Bot funktioniert           |     JA     |
+| 2              |   -                   |   Discord API aufgesetzt             |         Zugriff auf Discord API      |      JA    |
+| 3              |     Discord gestartet                 |    Bot gestartet            |  Bot im Server              |     Nein     |
+| 4              |       Discord gestartet               |    /hallo im Chat            |  Bot schreibt Hallo              |    Nein       |
 
 Reflexion
+Heute konnte ich endlich wieder an meinem Projekt arbeiten. Angefangen habe ich damit, dass ich die Dokumentation durchgelesen habe. Als nächstes habe ich dann die Api für den Bot mittels eines Tutorials aufgesetzt. Als nächstes habe ich versucht die Api für meine Ai zu bekommen jedoch bin ich jetzt in einer Warteschlange bis ich diese bekomme. 
+
+
+## Arbeitspakete 19.03.2024
+
+- [ ] Ai Api aufsetzen
+- [ ] Discord bot in Discord einfügen
+- [ ] Code für discord bot Schreiben
+- [ ] Discord bot kann hallo schreiben 
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |       Discord developer seite gestartet               |  Code geschrieben              |   Code funktioniert             |          |
+| 2              |       Discord gestartet               |   -             |      Bot ist im Server          |          |
+| 3              |   Visual studio gestartet                   |       Code eingeschrieben         |    Code funktioniert            |          |
+| 4              |   Im chat des bots                   |      Hallo          |           Hallo     |          |
 ✍️Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
  
